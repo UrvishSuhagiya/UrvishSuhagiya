@@ -1,7 +1,7 @@
 👋 Hi, I'm @UrvishSuhagiya
 =============================
 
-I'm Urvish Suhagiya, Computer Engineer with interest in web development.
+I'm Urvish Suhagiya, Interested in web development.
 
 👀 I'm interested in ...
 ------------------------
@@ -16,10 +16,6 @@ I'm Urvish Suhagiya, Computer Engineer with interest in web development.
 * Cyber Security
 * Advanced Web Technologies
 
-📫 How to reach me ...
----------------------
-
-* LinkedIn: https://www.linkedin.com/in/urvish-suhagiya-b19a89266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 😄 Pronouns: He/Him
 
