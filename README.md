@@ -1,22 +1,23 @@
-👋 Hi, I'm @UrvishSuhagiya
+👋 Hi, I'm @UrvishSuhagiya  
 =============================
 
-I'm Urvish Suhagiya, Interested in web development.
+I'm Urvish Suhagiya, Interested in DevOps and web development.
 
-👀 I'm interested in ...
-------------------------
+👀 I'm interested in ...  
+------------------------  
 
-* Web Development (Frontend and Backend)
-* Internet Of Things
+* DevOps and CI/CD Pipelines  
+* Web Development  
+* Internet Of Things  
 
-🌱 I'm currently learning ...
----------------------------
+🌱 I'm currently learning ...  
+---------------------------  
 
-* AI and ML concepts
-* Cyber Security
-* Advanced Web Technologies
+* DevOps tools and practices  
+* AI and ML concepts  
+* Cyber Security  
+* Advanced Web Technologies  
 
-
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him  
 
 ⚡ Fun fact: In my free time, I spend time with friends, sometimes go on small trips, and enjoy life.
