@@ -26,4 +26,4 @@ I'm Urvish Suhagiya, passionate about building and automating software delivery 
 ---------------------------  
 
 * LinkedIn : [Urvish Suhagiya](https://www.linkedin.com/in/urvish-suhagiya-b19a89266/)
-* Blog : [My Articles](https://urvishsuhagiya.hashnode.dev/)
+* Articles : [Urvish Suhagiya](https://urvishsuhagiya.hashnode.dev/)
